@@ -4,7 +4,9 @@ Juan Benitez
 Sigi Lopez
 12 February 2019
 
-Project 1: Design and Decisions
+Project 1: Neighbor Discovery and Flooding
+
+Design and Decisions
 
 The design idea behind flooding was to was to use a List data structure to store packets
 that were being sent and received allowing us to keep a record of what’s happening in the network. We used the List with the type package because packages contain a lot of information such as Package source, Package destination and more.
