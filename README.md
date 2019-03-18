@@ -1,8 +1,6 @@
 # CSE160-Computer_Networks-Project_1
 
-Juan Benitez
-
-Sigi Lopez
+Juan Benitez and Sigi Lopez
 
 12 February 2019
 
